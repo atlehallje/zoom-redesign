@@ -5,9 +5,6 @@ import { CiBank, CiMedicalCase } from "react-icons/ci";
 import { BsBoxSeam } from "react-icons/bs";
 import { GrTag } from "react-icons/gr";
 
-
-
-
 import Card from "./Card";
 
 function App() {
@@ -56,7 +53,7 @@ function App() {
           </div>
         </div>
         <div className="md:w-1/2">
-          <img src="/gallery-view.png" className="" alt="Image of a Zoom call on a computer" />
+          <img src="gallery-view.png" className="" alt="Image of a Zoom call on a computer" />
         </div>
 
       </div>
